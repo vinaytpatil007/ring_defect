@@ -1,0 +1,19 @@
+# Ignore all .png files
+*.png
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+#Ignore all exe files
+*.exe
+
+#Ignore all jupyter Notebook files
+*.ipynb
+
+# Ignore specific folders
+ui_images/
+output/
